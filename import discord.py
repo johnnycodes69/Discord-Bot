@@ -9,8 +9,8 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 
 # Discord bot token and channel ID
-DISCORD_TOKEN = 'https://discord.com/api/webhooks/1253423319336616088/Eb5-EdhK4pJSxrUDeHiVHqJxmbku_k4bNTa4x5xKeAPWtXJwq-F6Sv_9CxL2KBNX6ZZC'
-CHANNEL_ID = 'bot-stuff'
+DISCORD_TOKEN = 'PUT TOKEN HERE'
+CHANNEL_ID = 'PUT CHANNEL HERE'
 
 # Gmail API setup
 SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
